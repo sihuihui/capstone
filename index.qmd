@@ -1,8 +1,8 @@
 ---
-title: "capstone project"
+title: "Si Hui's capstone project"
 ---
 
-This is a Quarto website.
+This website is about my capstone project journey
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
