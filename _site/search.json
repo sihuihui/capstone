@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Si Hui’s capstone project",
+    "title": "Si Hui’s Capstone Project",
     "section": "",
-    "text": "This website is about my capstone project journey\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This website documents my capstone project’s journey!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#understanding-the-theories",
+    "href": "index.html#understanding-the-theories",
+    "title": "Si Hui’s Capstone Project",
+    "section": "Understanding The Theories",
+    "text": "Understanding The Theories\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#exploring-the-data",
+    "href": "index.html#exploring-the-data",
+    "title": "Si Hui’s Capstone Project",
+    "section": "Exploring The Data",
+    "text": "Exploring The Data\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#analysing-the-data",
+    "href": "index.html#analysing-the-data",
+    "title": "Si Hui’s Capstone Project",
+    "section": "Analysing The Data",
+    "text": "Analysing The Data\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#building-and-calibrating-the-models",
+    "href": "index.html#building-and-calibrating-the-models",
+    "title": "Si Hui’s Capstone Project",
+    "section": "Building and Calibrating The Models",
+    "text": "Building and Calibrating The Models\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -1,11 +1,63 @@
 ---
-title: "Si Hui's capstone project"
+title: "Si Hui's Capstone Project"
+format: 
+  html:
+    css: styles.css 
+page-layout: full
+listing: 
+  - id: Understanding-the-Theories
+
+
+    type: grid
+    sort: "date"
+  
+  - id: Exploring-the-Data 
+ 
+
+    type: grid
+    sort: "date"
+      
+  - id: Analysing-the-Data 
+    
+
+    type: grid
+    sort: "date"
+    
+  - id: Building-and-Calibrating-the-Models
+   
+    type: grid
+    sort: "date"
+  
+
+toc: false 
+sidebar: false 
+number-sections: false
 ---
 
-This website is about my capstone project journey
+This website documents my capstone project's journey!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](images/cattyping.jpg){fig-align="center"}
 
-```{r}
-1 + 1
-```
+------------------------------------------------------------------------
+
+## Understanding The Theories
+
+::: {#Understanding-the-Theories}
+:::
+
+## Exploring The Data
+
+::: {#Exploring-the-Data}
+:::
+
+## Analysing The Data 
+
+::: {#Analysing-the-Data }
+:::
+
+## Building and Calibrating The Models
+
+
+
+::: {#Building-and-Calibrating-the-Models}
+:::
