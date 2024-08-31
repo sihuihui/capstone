@@ -2,18 +2,42 @@ project:
   type: website
 
 website:
-  title: "capstone"
+  favicon: "sihuilearns_logo_h.png"
   navbar:
+    logo: "sihuilearns_logo_h.png"
+    background: "#293040"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Theories 
+      - text: Explore 
+      - text: Analyse
+      - text: Calibrate 
+
+
+  page-footer:
+    background: light
+    left: 
+      - href: https://quarto.org/
+        text: "Published with Quarto |"
+      - href: https://www.netlify.com/
+        text: "Hosted by Netlify"
 
 format:
   html:
-    theme: cosmo
+    grid: 
+      body-width: 1200px
+      margin-width: 250px
+      sidebar-width: 250px
+      gutter-width: 4em
+    theme: 
+    - journal
+    monfont: courier new
     css: styles.css
     toc: true
+    toc-title: "On this page"
+    number-sections: true
+    toc-expand: 3
+    toc-depth: 3
+
 
 editor: visual
 
