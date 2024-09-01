@@ -1,1 +1,17 @@
 /* css styles */
+@media (min-width: 991.98px) {
+#quarto-header {
+  border-bottom: 1px solid #dee2e6;
+}
+}
+
+.navbar-brand > img {
+  max-height: 103px;
+}
+
+
+
+
+.title {
+  text-align: center;
+}

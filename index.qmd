@@ -7,24 +7,21 @@ page-layout: full
 listing: 
   - id: Understanding-the-Theories
 
-
     type: grid
     sort: "date"
   
-  - id: Exploring-the-Data 
- 
+  - id: Exploring-and-analysing-the-Data 
 
     type: grid
     sort: "date"
       
-  - id: Analysing-the-Data 
-    
-
-    type: grid
-    sort: "date"
-    
   - id: Building-and-Calibrating-the-Models
    
+    type: grid
+    sort: "date"
+  
+  - id: Reports
+
     type: grid
     sort: "date"
   
@@ -36,7 +33,7 @@ number-sections: false
 
 This website documents my capstone project's journey!
 
-![](images/cattyping.jpg){fig-align="center"}
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlkZ3FtejNpeGI5Y3d2YWd2aWdtaHlhd2swMGI0N2dmcGM3OTJyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OIfGZBF6W5kRQrgCf8/giphy.gif){fig-align="center" width="600"}
 
 ------------------------------------------------------------------------
 
@@ -45,19 +42,18 @@ This website documents my capstone project's journey!
 ::: {#Understanding-the-Theories}
 :::
 
-## Exploring The Data
+## Exploring and Analysing The Data
 
-::: {#Exploring-the-Data}
+::: {#Exploring-and-analysing-the-Data}
 :::
 
-## Analysing The Data 
-
-::: {#Analysing-the-Data }
-:::
 
 ## Building and Calibrating The Models
 
-
-
 ::: {#Building-and-Calibrating-the-Models}
+:::
+
+## My Papers
+
+::: {#Reports}
 :::
